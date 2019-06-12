@@ -2,8 +2,8 @@
 A repository with Xcode templates for VIPER architecture and using Texture (AsyncDiplayKit).
 
 ## Rquirements
-- Xcode 9+
-- Swift 3.2
+- Xcode 10+
+- Swift 4.2
 
 ## Getting started
 1. Download the zip or clone the repository.
