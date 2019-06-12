@@ -12,7 +12,7 @@ import AsyncDisplayKit
 class ___VARIABLE_moduleName___ViewController: ASViewController<ASTableNode> { // <ASTableNode>
 
     var presenter: ___VARIABLE_moduleName___Interface?
-    let tableNode = ASTableNode(style: UITableViewStyle.plain)
+    let tableNode = ASTableNode(style: UITableView.Style.plain)
 
     init() {
         super.init(node: tableNode)
